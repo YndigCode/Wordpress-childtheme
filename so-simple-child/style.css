@@ -11,3 +11,35 @@
  Tags:			light
  Text Domain:	sosimple-child
 */
+
+body {
+    background-color: whitesmoke;
+}
+
+p {
+    color: black;
+}
+
+.site {
+    background-color: whitesmoke;
+}
+
+.site-header {
+    border: none;
+}
+
+.main-navigation {
+    background-color: black;
+}
+
+.main-navigation a {
+    color: white;
+}
+
+.main-navigation a:visited {
+    color: orange;
+}
+
+.current_page_item a, .current-menu-item a, .current_page_item a:visited, .current-menu-item a:visited {
+    color: yellow;
+}
